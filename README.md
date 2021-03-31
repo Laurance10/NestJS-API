@@ -26,6 +26,19 @@
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 
+### 🛠 Tecnologias
+
+- [NestJS](https://nestjs.com/)
+- [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [HandleBars](https://handlebarsjs.com/)
+
+### Autor
+
+- Feito por Victor Laurance, com auxílio de artigos do Medium.
+- Este projeto foi uma curva de aprendizado para mim, na curiosidade de aprender NestJS.
+- Sinta-se à vontade para contribuir!
+
 ### 🎲 Rodando a API (servidor)
 
 ```bash
@@ -43,16 +56,3 @@ $ npm run run start
 
 # É importante que você tenha a CLI do Nest já instalada
 $ npm i -g @nestjs/cli
-
-### 🛠 Tecnologias
-
-- [NestJS](https://nestjs.com/)
-- [Node.js](https://nodejs.org/en/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [HandleBars](https://handlebarsjs.com/)
-
-### Autor
-
-- Feito por Victor Laurance, com auxílio de artigos do Medium.
-- Este projeto foi uma curva de aprendizado para mim, na curiosidade de aprender NestJS.
-- Sinta-se à vontade para contribuir!
